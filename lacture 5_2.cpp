@@ -50,9 +50,8 @@ main()
 	int i;
 	cout<<"Enter size:-";
 	cin>>n;
+    
+	food obj[n];
 
-	for(i=0;i<n;i++)
-	{
-		food obj[i];
-	}
+
 }

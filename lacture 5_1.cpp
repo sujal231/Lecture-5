@@ -55,9 +55,7 @@ main()
 	
 	cout<<"Enter size:-";
 	cin>>n;
+	company obj[n];
 
-	for(i=0;i<n;i++)
-	{
-		company obj[i];
-	}
+
 }
